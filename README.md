@@ -1,9 +1,10 @@
 # blog
-
+Es wurde ein rudimentäres Blog-System programmiert<br>
+<br>
 Die Autorenseite ist nur nach erfolgreichem Login aufrufbar<br>
 Die Zugangsdaten lauten: a@b.c – Password: 1234.<br>
 <br>
-Es wurde ein rudimentäres Blog-System programmiert, das folgende Aufgaben erfüllt:<br>
+Das Blog erfüllt das folgende Aufgaben:<br>
 Seite dashboard.php:<br>
 
 •	Anlegen von neuen Kategorien (Formular – Input Text)<br>
